@@ -14,9 +14,9 @@ cd FE
 npm install
 npm start
 ```
-###Full Deployment:
-####Auto: Recreate the repo for FE files and host on Vercel.
-####Manual:
+### Full Deployment:
+#### Auto: Recreate the repo for FE files and host on Vercel.
+#### Manual:
 ```bash
 cd FE
 npm install -g serve
