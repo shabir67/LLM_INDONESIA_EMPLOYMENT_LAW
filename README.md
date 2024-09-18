@@ -47,4 +47,4 @@ For the complete guide (recommended to use Conda):
 ### Fine-tune:
 - BLEU: 0.6164010763168335
 - ROUGE: 0.7134693037488239
-- Perplexity: 1.0561115741729736# LLM_INDONESIA_EMPLOYMENT_LAW
+- Perplexity: 1.0561115741729736
