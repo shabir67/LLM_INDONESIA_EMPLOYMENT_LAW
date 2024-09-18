@@ -1,0 +1,40 @@
+/* Common.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url('https://source.unsplash.com/1600x900/?cityscape') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  input {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #222;
+    color: white;
+  }
+  
+  input::placeholder {
+    color: #888;
+  }
+  
+  input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
