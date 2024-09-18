@@ -1,5 +1,8 @@
 # LLM_INDONESIA_EMPLOYMENT_LAW
 
+## Beta Demo
+![ezgif-2-0c6c76e073](https://github.com/user-attachments/assets/9490d98f-56b2-46ca-9348-a51ae2c20893)
+
 ## Train:
 - Raw dataset (PDF): [RUU Cipta Kerja](https://ekon.go.id/source/info_sektoral/RUU%20Cipta%20Kerja.pdf)
 - RAG model: "llama3.1"
