@@ -5,9 +5,9 @@
 
 ## Data Source:
 - Raw dataset (PDF): [RUU Cipta Kerja](https://ekon.go.id/source/info_sektoral/RUU%20Cipta%20Kerja.pdf)
-- QA-Generated pairs: <a href="https://github.com/Willy030125/LLM_Ciptaker/blob/main/Notebook/Ciptaker-sft-data-preparation.ipynb">SFT data prep Notebook</a>
+- QA-Generated pairs: <a href="https://github.com/shabir67/LLM_INDONESIA_EMPLOYMENT_LAW/blob/main/Notebook/Ciptaker-sft-data-preparation.ipynb">SFT data prep Notebook</a>
 
-## Train Fine-Tune LLM (with LoRA) (shout out to @Willy030125):
+## Train Fine-Tune LLM (with LoRA) (shout out to [@Willy030125](https://github.com/Willy030125)):
 - Model base: "sarahlintang/mistral-indo-7b"
 - Fine Tuned model: https://huggingface.co/Willy030125/CiptakerLM-v1
 
@@ -15,7 +15,7 @@
 - RAG model: "llama3.1"
 - Embedding model: "nomic-embed-text"
 - RAG library: LangChain with Unstructured PDF Loader
-- Notebook: <a href="https://github.com/Willy030125/LLM_Ciptaker/blob/main/Notebook/Ciptaker-llama-RAG-langchain-unstructured.ipynb">here</a>
+- Notebook: <a href="https://github.com/shabir67/LLM_INDONESIA_EMPLOYMENT_LAW/blob/main/Notebook/Ciptaker-llama-RAG-langchain-unstructured.ipynb">here</a>
 
 ## Frontend
 - Pre-requisites: Node version v20.17.0
